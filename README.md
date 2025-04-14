@@ -16,7 +16,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="profile.jpg" width="200" style="border-radius: 8px;">
+<img src="p1.jpg" width="200" style="border-radius: 8px;">
 
 </td>
 </tr>
