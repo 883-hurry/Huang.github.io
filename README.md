@@ -2,10 +2,10 @@
 <div style="display: flex;">
 <div style="flex: 60%;">
 # 个人情况介绍
-
+## 基本信息
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 - **姓名**：黄晓静  
 - **学校**：东北大学（秦皇岛）  
