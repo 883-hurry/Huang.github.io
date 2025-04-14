@@ -10,13 +10,14 @@
 - **姓名**：黄晓静  
 - **学校**：东北大学（秦皇岛）  
 - **专业**：计算机科学与技术  
-- **年级**：2022级  
+- **年级**：2022级
+- **电话**：19565385900
 - **邮箱**：19565385900@163.com  
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="p1.jpg" width="200" style="border-radius: 8px;">
+<img src="p1.jpg" width="180" style="border-radius: 8px;">
 
 </td>
 </tr>
