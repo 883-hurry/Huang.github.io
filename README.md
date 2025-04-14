@@ -13,7 +13,6 @@
 <div style="flex: 40%; text-align: center;">
 
 ![个人照片](C:\Users\Lenovo\Desktop\pic\p1.jpg)  
-*（将 `image.png` 替换为你的实际照片路径）*
 
 </div>
 </div>
