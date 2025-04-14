@@ -1,4 +1,6 @@
 # Huang.github.io
+<div style="display: flex;">
+<div style="flex: 60%;">
 # 个人情况介绍
 
 ## 基本信息
@@ -7,7 +9,14 @@
 - **专业**：计算机科学与技术  
 - **年级**：2022级 
 - **邮箱**：19565385900@163.com
+</div>
+<div style="flex: 40%; text-align: center;">
 
+![个人照片](image.png)  
+*（将 `image.png` 替换为你的实际照片路径）*
+
+</div>
+</div>
 ---
 
 ## 📊 学业成绩
