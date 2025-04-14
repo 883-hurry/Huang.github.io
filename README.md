@@ -12,7 +12,7 @@
 </div>
 <div style="flex: 40%; text-align: center;">
 
-![个人照片](p1.jpg)  
+<img src="p1.jpg" width="200" style="border-radius: 8px;">
 
 </div>
 </div>
