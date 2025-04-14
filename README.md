@@ -3,20 +3,24 @@
 <div style="flex: 60%;">
 # 个人情况介绍
 
-## 基本信息
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - **姓名**：黄晓静  
-- **学校**：东北大学（秦皇岛）
+- **学校**：东北大学（秦皇岛）  
 - **专业**：计算机科学与技术  
-- **年级**：2022级 
-- **邮箱**：19565385900@163.com
-</div>
-<div style="flex: 40%; text-align: center;">
+- **年级**：2022级  
+- **邮箱**：19565385900@163.com  
 
-<img src="p1.jpg" width="200" style="border-radius: 8px;">
+</td>
+<td width="40%" valign="top" align="center">
 
-</div>
-</div>
----
+<img src="profile.jpg" width="200" style="border-radius: 8px;">
+
+</td>
+</tr>
+</table>
 
 ## 📊 学业成绩
 ### GPA与排名
