@@ -56,9 +56,33 @@
   - 在 UNet 网络架构的基础上，通过对 fixed-image 和 moving-image 进行编码和解码生成一个形变场；
   - 通过空间变换网络（STN）根据形变场对待配准图像进行每个像素的重塑（利用双线性插值）得到 moved-image；
   - 最终，计算 fixed-image 与 moved-image 的 Dice Score 值为 0.823，表明模型较好地实现了图像配准。
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
-  <img src="image/p1.png" alt="架构图" style="width: 80%; object-fit: contain;">
-  <img src="image/p2.png" alt="架构图" style="width: 80%; object-fit: contain;">
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 改为两列布局 */
+    gap: 15px;
+    align-items: center;
+    justify-content: center;  /* 新增水平居中 */
+    width: fit-content;      /* 容器宽度自适应内容 */
+    margin: 0 auto;          /* 整体水平居中 */
+">
+  <div style="display: flex; justify-content: center;">  <!-- 新增包装层 -->
+    <img src="image/p1.png" 
+         alt="架构图" 
+         style="
+             width: 80%; 
+             object-fit: contain;
+             margin: 0 auto;  /* 图片自身居中 */
+         ">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="image/p2.png" 
+         alt="架构图" 
+         style="
+             width: 80%; 
+             object-fit: contain;
+             margin: 0 auto;
+         ">
+  </div>
 </div>
   
 ### 项目2：《Olympic Medal Table Prediction Model Based on LSTM-Transformer with Transfer Learning》
