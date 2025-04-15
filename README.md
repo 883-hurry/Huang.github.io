@@ -94,6 +94,7 @@
   
 </div>
 ---
+
 ## 🏆 竞赛荣誉
 | 奖项名称         | 颁发单位       | 时间     |
 |------------------|----------------|----------|
@@ -101,6 +102,7 @@
 | 国际大学生数学竞赛H奖     | 美国数学及其应用联合会          | 2024.05|
 | 亚太地区大学生数学建模竞赛国家级三等奖  |亚太地区大学生数学建模竞赛组委会| 2025.01|
 | 全国大学生数学竞赛省级三等奖     | 东北大学秦皇岛分校         | 2023.11  |
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
   <img src="image/全国大学生数学建模竞赛.png" alt="架构图" style="width: 30%; object-fit: contain;">
   <img src="image/亚太地区.png" alt="架构图" style="width: 30%; object-fit: contain;">
