@@ -92,9 +92,33 @@
   - 通过构建 LSTM 层对奥运奖牌数据进行初步处理，捕捉局部时间依赖性；
   - Transformer 层被应用于 LSTM 层的输出，利用自注意力机制来捕捉奥运奖牌数据中的全局依赖性；
   - 运用 SHAP 分析方法量化各个运动项目对奖牌分布的贡献，为国家体育委员会提供了战略规划和资源分配的科学依据。
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
-  <img src="image/p3.png" alt="架构图" style="width: 80%; object-fit: contain;">
-  <img src="image/p4.png" alt="架构图" style="width: 80%; object-fit: contain;">
+<div style="
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 改为两列布局 */
+    gap: 15px;
+    align-items: center;
+    justify-content: center;  /* 新增水平居中 */
+    width: fit-content;      /* 容器宽度自适应内容 */
+    margin: 0 auto;          /* 整体水平居中 */
+">
+  <div style="display: flex; justify-content: center;">  <!-- 新增包装层 -->
+    <img src="image/p3.png" 
+         alt="架构图" 
+         style="
+             width: 80%; 
+             object-fit: contain;
+             margin: 0 auto;  /* 图片自身居中 */
+         ">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="image/p4.png" 
+         alt="架构图" 
+         style="
+             width: 80%; 
+             object-fit: contain;
+             margin: 0 auto;
+         ">
+  </div>
 </div>
 ---
 
