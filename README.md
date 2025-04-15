@@ -39,9 +39,9 @@
   - CET6：522
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
-  <img src="image/rank.png" alt="架构图" style="width: 100%; object-fit: contain;">
-  <img src="image/rank.png" alt="流程图" style="width: 100%; object-fit: contain;">
-  <img src="image/rank.png" alt="数据图" style="width: 100%; object-fit: contain;">
+  <img src="image/rank.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/rank.png" alt="流程图" style="width: 30%; object-fit: contain;">
+  <img src="image/rank.png" alt="数据图" style="width: 30%; object-fit: contain;">
 </div>
 
 
