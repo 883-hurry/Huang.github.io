@@ -38,19 +38,23 @@
   - CET4：613
   - CET6：522
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-  <figure>
-    <img src="image/rank.png" alt="架构图" style="width:20%">
-    <figcaption style="text-align:center">图1：系统架构</figcaption>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
+
+  <figure style="margin: 0; text-align: center">
+    <img src="image/rank.png" alt="系统架构图" style="width: 20%; border: 1px solid #eee; border-radius: 4px;">
+    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #666;">图1：系统架构</figcaption>
   </figure>
-  <figure>
-    <img src="image/rank.png" alt="流程图" style="width:20%">
-    <figcaption style="text-align:center">图2：业务流程</figcaption>
+
+  <figure style="margin: 0; text-align: center">
+    <img src="image/rank.png" alt="业务流程" style="width: 20%; border: 1px solid #eee; border-radius: 4px;">
+    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #666;">图2：业务流程</figcaption>
   </figure>
-  <figure>
-    <img src="image/rank.png" alt="数据图" style="width:20%">
-    <figcaption style="text-align:center">图3：分析结果</figcaption>
+
+  <figure style="margin: 0; text-align: center">
+    <img src="image/rank.png" alt="分析结果" style="width: 20%; border: 1px solid #eee; border-radius: 4px;">
+    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #666;">图3：分析结果</figcaption>
   </figure>
+
 </div>
 
 
