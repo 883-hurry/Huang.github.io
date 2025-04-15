@@ -57,8 +57,8 @@
   - 通过空间变换网络（STN）根据形变场对待配准图像进行每个像素的重塑（利用双线性插值）得到 moved-image；
   - 最终，计算 fixed-image 与 moved-image 的 Dice Score 值为 0.823，表明模型较好地实现了图像配准。
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
-  <img src="image/p1.png" alt="架构图" style="width: 100%; object-fit: contain;">
-  <img src="image/p2.png" alt="架构图" style="width: 100%; object-fit: contain;">
+  <img src="image/p1.png" alt="架构图" style="width: 80%; object-fit: contain;">
+  <img src="image/p2.png" alt="架构图" style="width: 80%; object-fit: contain;">
 </div>
   
 ### 项目2：《Olympic Medal Table Prediction Model Based on LSTM-Transformer with Transfer Learning》
@@ -68,13 +68,15 @@
   - 通过构建 LSTM 层对奥运奖牌数据进行初步处理，捕捉局部时间依赖性；
   - Transformer 层被应用于 LSTM 层的输出，利用自注意力机制来捕捉奥运奖牌数据中的全局依赖性；
   - 运用 SHAP 分析方法量化各个运动项目对奖牌分布的贡献，为国家体育委员会提供了战略规划和资源分配的科学依据。
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
+  <img src="image/p3.png" alt="架构图" style="width: 80%; object-fit: contain;">
+  <img src="image/p4.png" alt="架构图" style="width: 80%; object-fit: contain;">
+</div>
 ---
 
 ## 🏆 个人荣誉
 | 奖项名称         | 颁发单位       | 时间     |
 |------------------|----------------|----------|
-| 校综合一等奖学金       | 东北大学秦皇岛分校         | 2025.04|
 | 校综合二等奖学金*3     |东北大学秦皇岛分校          | 2023.10 2024.05 2024.11|
 | 校综合三等奖学金       |东北大学秦皇岛分校          | 2023.05|
 | 优秀学生干部     | 东北大学秦皇岛分校         | 2023.11  |
@@ -82,6 +84,15 @@
 | 三好学生     | 东北大学秦皇岛分校         | 2024.11  |
 | 优秀志愿者     | 共青团东北大学秦皇岛分校委员会         | 2024.04  |
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
+  <img src="image/二等奖学金2.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/二等奖学金3.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/奖学金证书.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/优秀学生干部.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/特发此证.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/优秀志愿者.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  
+</div>
 ---
 ## 🏆 竞赛荣誉
 | 奖项名称         | 颁发单位       | 时间     |
@@ -90,7 +101,13 @@
 | 国际大学生数学竞赛H奖     | 美国数学及其应用联合会          | 2024.05|
 | 亚太地区大学生数学建模竞赛国家级三等奖  |亚太地区大学生数学建模竞赛组委会| 2025.01|
 | 全国大学生数学竞赛省级三等奖     | 东北大学秦皇岛分校         | 2023.11  |
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
+  <img src="image/全国大学生数学建模竞赛.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/亚太地区.png" alt="架构图" style="width: 30%; object-fit: contain;">
+  <img src="image/数学竞赛.png" alt="架构图" style="width: 30%; object-fit: contain;">
+ 
+  
+</div>
 
 
 ## 📌 其他技能
