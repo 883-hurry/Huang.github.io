@@ -40,15 +40,15 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
   <figure>
-    <img src="image/rank.png" alt="架构图" style="width:30%">
+    <img src="image/rank.png" alt="架构图" style="width:20%">
     <figcaption style="text-align:center">图1：系统架构</figcaption>
   </figure>
   <figure>
-    <img src="image/rank.png" alt="流程图" style="width:30%">
+    <img src="image/rank.png" alt="流程图" style="width:20%">
     <figcaption style="text-align:center">图2：业务流程</figcaption>
   </figure>
   <figure>
-    <img src="image/rank.png" alt="数据图" style="width:30%">
+    <img src="image/rank.png" alt="数据图" style="width:20%">
     <figcaption style="text-align:center">图3：分析结果</figcaption>
   </figure>
 </div>
