@@ -33,9 +33,25 @@
   - C++程序设计 99/100
   - 数据结构与算法：98/100  
   - 数据库原理：98/100  
-  - 操作系统：95/100  
+  - 操作系统：95/100
+- **英语水平**：
+  CET4：613
+  CET6：522
 
-![成绩截图](rank.png)  
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+  <figure>
+    <img src="image/rank.png" alt="架构图" style="width:100%">
+    <figcaption style="text-align:center">图1：系统架构</figcaption>
+  </figure>
+  <figure>
+    <img src="image/rank.png" alt="流程图" style="width:100%">
+    <figcaption style="text-align:center">图2：业务流程</figcaption>
+  </figure>
+  <figure>
+    <img src="image/rank.png" alt="数据图" style="width:100%">
+    <figcaption style="text-align:center">图3：分析结果</figcaption>
+  </figure>
+</div>
 
 
 ---
