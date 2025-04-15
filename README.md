@@ -105,7 +105,7 @@
     <img src="image/p3.png" 
          alt="架构图" 
          style="
-             width: 80%; 
+             width: 100%; 
              object-fit: contain;
              margin: 0 auto;  /* 图片自身居中 */
          ">
@@ -114,7 +114,7 @@
     <img src="image/p4.png" 
          alt="架构图" 
          style="
-             width: 80%; 
+             width: 100%; 
              object-fit: contain;
              margin: 0 auto;
          ">
