@@ -126,6 +126,24 @@
 - **背景**：某电子产品生产企业在生产过程中面临零配件采购、装配及成品质量控制等多阶段决策问题。企业需要科学制定采购及生产策略，以实现生产利益最大化。
 - **任务**：
   - 构建最大期望利润模型，设定决策目标为卖出单个成品获得的最大期望利润。建立目标函数，综合考虑零配件成本、检测成本、装配成本、次品率、调换损失、拆解费用等因素，找到最优决策方案，预测单个产品的最大期望利润为19.4元;
+    <div style="
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 改为两列布局 */
+    gap: 15px;
+    align-items: center;
+    justify-content: center;  /* 新增水平居中 */
+    width: fit-content;      /* 容器宽度自适应内容 */
+    margin: 0 auto;          /* 整体水平居中 */
+">
+     <div style="display: flex; justify-content: center;">  <!-- 新增包装层 -->
+    <img src="image/a1.png" 
+         alt="架构图" 
+         style="
+             width: 100%; 
+             object-fit: contain;
+             margin: 0 auto;  /* 图片自身居中 */
+         ">
+  </div>
   - 构建多工序生产决策模型，在最大期望利润模型的基础上，进一步考虑多工序生产的特点。将半成品和成品纳入决策分析中，分析其不合格概率，预测单个产品的最大期望利润为20.3元;
 <div style="
     display: grid;
@@ -136,15 +154,7 @@
     width: fit-content;      /* 容器宽度自适应内容 */
     margin: 0 auto;          /* 整体水平居中 */
 ">
-  <div style="display: flex; justify-content: center;">  <!-- 新增包装层 -->
-    <img src="image/a1.png" 
-         alt="架构图" 
-         style="
-             width: 100%; 
-             object-fit: contain;
-             margin: 0 auto;  /* 图片自身居中 */
-         ">
-  </div>
+ 
   <div style="display: flex; justify-content: center;">
     <img src="image/a2.png" 
          alt="架构图" 
