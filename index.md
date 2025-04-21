@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的主页
+title: Huang.github.io
 ---
 
 # Huang.github.io
