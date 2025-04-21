@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Huang.github.io
 ---
 # Huang.github.io
