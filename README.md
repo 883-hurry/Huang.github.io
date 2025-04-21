@@ -40,7 +40,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
   <img src="image/rank.png" alt="架构图" style="width: 30%; object-fit: contain;">
-  <img src="image/cet.png" alt="流程图" style="width: 30%; object-fit: contain;">
+  <img src="image/cet4.png" alt="流程图" style="width: 30%; object-fit: contain;">
   <img src="image/cet6.png" alt="数据图" style="width: 30%; object-fit: contain;">
 </div>
 
@@ -120,7 +120,7 @@
          ">
   </div>
 </div>
----
+
 ### 项目3：基于最大期望利润模型的生产决策优化
 - **时间**：2024.09 - 2024.11
 - **背景**：某电子产品生产企业在生产过程中面临零配件采购、装配及成品质量控制等多阶段决策问题。企业需要科学制定采购及生产策略，以实现生产利益最大化。
@@ -155,7 +155,7 @@
          ">
   </div>
 </div>
----
+
 ### 项目4：中国宠物食品产业可持续发展战略研究与预测分析
 - **时间**：2025.01 - 2025.02
 - **背景**：随着社会的发展和人们生活水平的提高，宠物食品市场迎来了巨大的发展机遇。然而，面对全球市场竞争加剧以及国际贸易政策变化等挑战，如何制定科学合理的可持续发展战略，成为中国宠物食品产业亟待解决的问题。
