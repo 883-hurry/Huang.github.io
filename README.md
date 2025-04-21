@@ -40,8 +40,8 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; align-items: center;">
   <img src="image/rank.png" alt="架构图" style="width: 30%; object-fit: contain;">
-  <img src="image/rank.png" alt="流程图" style="width: 30%; object-fit: contain;">
-  <img src="image/rank.png" alt="数据图" style="width: 30%; object-fit: contain;">
+  <img src="image/cet.png" alt="流程图" style="width: 30%; object-fit: contain;">
+  <img src="image/cet6.png" alt="数据图" style="width: 30%; object-fit: contain;">
 </div>
 
 
@@ -121,6 +121,48 @@
   </div>
 </div>
 ---
+### 项目3：基于最大期望利润模型的生产决策优化
+- **时间**：2024.09 - 2024.11
+- **背景**：某电子产品生产企业在生产过程中面临零配件采购、装配及成品质量控制等多阶段决策问题。企业需要科学制定采购及生产策略，以实现生产利益最大化。
+- **任务**：
+  - 构建最大期望利润模型，设定决策目标为卖出单个成品获得的最大期望利润。建立目标函数，综合考虑零配件成本、检测成本、装配成本、次品率、调换损失、拆解费用等因素，找到最优决策方案，预测单个产品的最大期望利润为19.4元;
+  - 构建多工序生产决策模型，在最大期望利润模型的基础上，进一步考虑多工序生产的特点。将半成品和成品纳入决策分析中，分析其不合格概率，预测单个产品的最大期望利润为20.3元;
+<div style="
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 改为两列布局 */
+    gap: 15px;
+    align-items: center;
+    justify-content: center;  /* 新增水平居中 */
+    width: fit-content;      /* 容器宽度自适应内容 */
+    margin: 0 auto;          /* 整体水平居中 */
+">
+  <div style="display: flex; justify-content: center;">  <!-- 新增包装层 -->
+    <img src="image/a1.png" 
+         alt="架构图" 
+         style="
+             width: 100%; 
+             object-fit: contain;
+             margin: 0 auto;  /* 图片自身居中 */
+         ">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="image/a2.png" 
+         alt="架构图" 
+         style="
+             width: 100%; 
+             object-fit: contain;
+             margin: 0 auto;
+         ">
+  </div>
+</div>
+---
+### 项目4：中国宠物食品产业可持续发展战略研究与预测分析
+- **时间**：2025.01 - 2025.02
+- **背景**：随着社会的发展和人们生活水平的提高，宠物食品市场迎来了巨大的发展机遇。然而，面对全球市场竞争加剧以及国际贸易政策变化等挑战，如何制定科学合理的可持续发展战略，成为中国宠物食品产业亟待解决的问题。
+- **任务**：
+  - 对于市场数据使用3-sigma测试识别异常值，使用Kolmogorov-Smirnov检验验证数据变量P值均大于0.05，数据服从正态分布;
+  - 基于Spearman秩相关性检验建立岭回归模型（参数k=0.188）,分析各因素对宠物行业规模的影响，建立灰色预测模型，预测未来三年中国宠物市场的规模，预测值分别为2674.97亿元、2884.32亿元和3104.42亿元;
+  - 建立关税影响模型，通过比较预测值与实际值，得出结论高关税会降低中国宠物食品的出口量和在外国市场的份额，提出的可持续发展战略。
 
 ## 🏆 个人荣誉
 | 奖项名称         | 颁发单位       | 时间     |
