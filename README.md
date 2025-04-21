@@ -1,3 +1,7 @@
+---
+layout: default
+title: 个人主页
+---
 # Huang.github.io
 <div style="display: flex;">
 <div style="flex: 60%;">
